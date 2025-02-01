@@ -35,10 +35,11 @@
 
 ## Tests
 
- I would run it in the terminal and see if the README is generated when all prompts are done.
+ I would run it in the terminal and see if the README is generated when all prompts are done. You can view a walkthrough here: https://drive.google.com/file/d/1p2N15a4lggn-YkesIOtic3YoadrCB9kd/view?usp=drive_link
 
 ## Questions
 
+This project's [Github Repository](https://github.com/pojoto4/READMEGenerator)
 [My Github Profile](https://github.com/pojoto4)
 
 You can reach me with additional questions at a.shauna.deleon@gmail.com

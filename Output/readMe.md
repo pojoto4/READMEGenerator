@@ -1,10 +1,10 @@
 
-# Module 7 README Generator
+# Test Project
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
- This is a command-line application that prompts users to give information about their project. They are asked a series of questions and once submitted, it automatically creates a formatted document for them to add to their profile. This makes it much easier for them to create READMEs because the most time-consuming part is taken out.
+ This is a test of the app
 
 ## Table of Contents 
 
@@ -17,15 +17,15 @@
 
 ## Installation
 
- You have to make sure you have the correct folders installed like node modules and also install the inquirer package so that the application can launch properly. Once you put node index.js into your terminal, it will launch and prompt you to fill out the README.
+ npm i and node index.js
 
 ## Usage
 
- Once the app launches in your terminal, fill out all the required info when prompted and explain the use of your project and why you made it.
+ You open your terminal to launch the commands
 
 ## Contributing
 
- Justin Moore, a tutor on bootcamp spot and [Kolby Pinkston](https://youtu.be/SpFyvDPdcO0?si=q4-HaOn5nsibUzKt), a coder on YoutTube helped  with my code.
+ No collaborators
 
 ## License
 
@@ -35,7 +35,7 @@
 
 ## Tests
 
- I would run it in the terminal and see if the README is generated when all prompts are done.
+ 
 
 ## Questions
 
